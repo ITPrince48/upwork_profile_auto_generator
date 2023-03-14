@@ -1,0 +1,21 @@
+8+ years of experience and expertise.
+Website: https://crensoft.com
+LinkedIn: https://www.linkedin.com/in/edward-crenshaw/
+
+What you get:
+- Security
+- Best practices and latest standards
+- Clean, efficient and well tested code
+- On budget and on time delivery
+- Great communication
+- Satisfaction guaranteed
+
+Skills:
+- Javascript, React.js, Vue
+- Node.js, Express, Nginx, Next.js, Gatsby
+- PHP, Laravel
+- MySQL, Redis, MongoDB, PostgreSQL, CouchDB
+- Apache, Linux, Bash/shell scripting
+- Cloud services, AWS, Google Cloud services
+- HTML5, CSS3, SEO
+- Project management

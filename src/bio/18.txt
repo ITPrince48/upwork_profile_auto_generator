@@ -1,0 +1,39 @@
+***Top 2% Web Blockchain expert***
+
+**I have 5+ years of solid experience in front-end and back-end programing using
+MEAN and MERN stack.
+FrontEnd: React, Redux, React Native, Next.js, Bootstrap, jQuery, RxJs, Angular,
+Vue
+BackEnd: Node.js and Express ,PHP/Laravel
+APIs: RESTful, SOAP, GrpahQL
+DataBase Service: SQL: MySQL, MS SQL, PostgreSQL, SQLite
+NoSQL: MongoDB, Neo4 ,Sequelize ORM.
+Dev Ops: Github
+Clouding Service: AWS, GCP, FireBase, Docker
+I have 5 years experience with proficiency in NFT Marketplace |Smart Contract
+Development | Blockhain Development | ICO | Cryptocurrency | Smart Contract
+Audits| Public & Private Blockchain | dApps.
+
+I evaluate, develop and maintain blockchain and Cryptocurrency related
+products.
+• Smart-Contracts (Solidity, Truffle framework)
+• Smart Contracts Audits
+• NFT (Non Fungible Token) Marketplace Development
+• Crypto Coins Exchange Development
+• ICO & IDO Development with Created Token ( Coin )
+• Token development based on Ethereum and Binance (ERC20, ERC721, ERC
+1155, BEP20, BEP721, BEP1155)
+• DLT Apps & Private Blockchain Development
+• Cryptocurrency Wallet Development for Linux, windows, Mac, Web.
+==AI software engineer
+- Working with image and video: morphological , filter, transform,
+segmentation, contours, angle deflection of object, object detection with
+keras mask rcnn.
+OCR:
+- Detect written: Yolo, DB, East, Tesseract.
+- Recognization: Transformer, attention + ctc loss, bert, seq2seq attention.
+- Object recognition.
+- Crawl data with python, clean data, preprocessing data, build model CNN to
+classification object.
+- Pytorch, Tensorflow, Keras.
+- Detect face with MTCNN and facenet.

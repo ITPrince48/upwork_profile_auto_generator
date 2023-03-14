@@ -1,0 +1,23 @@
+Hi!
+Thank you for taking time to check my profile.
+I'm a senior blockchain engineer and full stack web/mobile developer with 8+ years of experience.
+I have profound knowledge and extensive experience in smart contract and dApp development.
+I have built several Ethereum tokens and implemented complex security and economic algorthm into smart contract.
+I have created lots of web and mobile applications with MERN/MEVN stack and React Native.
+Main Skills:
+✅ Smart Contract development with Solidity, Solana, and Haskell
+✅ Integration of frontend via Web3
+✅ Web front end development with React and Vue
+✅ Web backend development with Node and Express
+✅ mobile app development with React Native.
+
+My Experience:
+✅ Create Ethereum Tokens
+✅ Smart contract(ERC-20, ERC-721, ERC-1155) development/customization and deployment
+✅ NFT marketplace development
+✅ Web/mobile app development integrated with Blockchain
+✅ Web/mobile game development integrated with Blockchain
+
+I'll be happy to realize your creative and innovative business ideas with my skill and experience.
+Looking forward to working with you.
+Best regards.

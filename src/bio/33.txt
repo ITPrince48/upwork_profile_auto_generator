@@ -1,0 +1,22 @@
+Welcome to me.
+Welcome to you whenever and whereever and I hope your happiness and success.
+I'm a full stack developer | blockchain engineer has enough experience.
+I build reusable front-end for advance in future and flexible back-end for maximum speed performance.
+
+You can expect to me :
+> You can find me anytime if you want my help.
+> I'll follow your time zone and observe deadline.
+> I'll reflect your requirements clearly.
+> I like challenging new things.
+❔ I might ask many questions but in that case, I can provide perfect result to your job.
+
+My tech skills :
+⚡ Program Language -> HTML | Javascript | CSS | PHP | SQL | Python
+⚡ Front-End Skills -> React (Redux) | Typescript | Angular | Vue | Scss (Less) | Bootstrap
+⚡ Back-End Skills -> Node | Express | Ruby on Rails | Django | Laravel | CodeIgniter
+⚡ Database Skills -> MySQL | SQLite | MongoDB
+⚡ Other Skills -> Github | Git | AWS
+$ Blockchain Skills -> Cryptocurrency | NFT Marketplace Development | Smart Contracts | ERC20 (721) | Web3.js
+
+If you have problems whatever big or small on development or building new sites, I'll help you.
+Best Regards.

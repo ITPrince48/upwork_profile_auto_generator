@@ -1,0 +1,19 @@
+Hello,
+I am a web developer specialized in JS/TS based libraries and frameworks, and I can handle full system development which involves front-end, backend, API integration, and deployment.
+Also, I have exceptional skills in implementing Responsive UI/UX, and data visualization for dashboard.
+
+Below are my major technical skills for Front-End development.
+- React.js
+- Vue.js
+- SCSS
+- Server Side Rendering
+- Search Engine Optimization
+- Responsive Web Development
+
+And my technical stacks for Back-End are as following.
+- Node.js
+- Amazon Web Services
+- Jenkins
+- Terraform
+- Docker/Kubernetes
+- Serverless framework

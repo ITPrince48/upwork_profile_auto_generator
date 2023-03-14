@@ -1,0 +1,11 @@
+Hi
+As a Fullstack MERN Developer, I developed React and React Native applications . I am experienced with NoSQL MongoDB and Relational Database such as Oracle, MySQL an MSSQL. 
+I have 20 years experienced developing different applications from desktop, web and backend sytems. 
+I use Github and is experience with Jenkins CD/CI pipelines. I am also experienced developing middleware APIs with both ExpressJS and Koa. 
+I’ve been in the Blockchain space for the past 5 years, working with both Truffle and HardHat framework. 
+I’ve developed ERC20 smart contracts and have worked with ERC720 and ERC1155 NFT smart contracts. 
+I’ve integrated decentralized web applications with Metamask and Keplr wallets and I’ve developed applications interfacing with smart contracts. 
+I’ve worked with Ethereum, Fantom, Polygon, BinanceSC, Cosmos and Secret Network. 
+I’ve worked with DeFi protocols such as Uniswap Router V2, 0X Exchange, ZapperInOut and 1InchProtocol. 
+I have extensive knowledge and experience to architecture a solution integrating Blockchain technology.
+Thanks

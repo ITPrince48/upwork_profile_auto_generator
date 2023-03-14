@@ -1,0 +1,10 @@
+5+ years of experience working as a Software Developer, building both hand-coded and framework assisted websites, web applications, API services, large scale SaaS services and etc.
+
+Expertise:
+
+Front End: HTML, CSS, JavaScript, React.js
+Back End: Java, C#, C++, Spring Boot, Microservices, Hibernate, Kafka, REST, HTTP,SOAP, Docker, Redis, Kubernetes.
+Testing: JUnit 5, Selenium, Jenkins.
+Database: SQL( MySQL) NoSQL(MongoDB)
+Cloud: Azure , GCP
+Version control: Git

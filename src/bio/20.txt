@@ -1,0 +1,21 @@
+Hi, I run an software development company Dark Army Studios based in Ohio, USA and I am an Enterprise Architect by profession. We are a agency exceeding in Software, Crypto and Unity Game development with more than 45 team members and over 18 years of E-Commerce, Web Development, Mobile App Development, Cloud Engineering, Open Source integration, DeFi, DApps, Blockchain, NFT and Graphic Design experience.
+
+Languages:
+
+React | Angular | PHP | C# | C++ | JavaScript | Node.JS | .NET | Java | SQL | PL/SQL | RUST
+
+Frameworks:
+
+React Native | Ionic | Flutter | Laravel | ASP.NET | Django
+
+Databases:
+
+MariaDB | MySql | PostgreSQL | Oracle | DB2 | MongoDB
+
+Blockchain:
+
+Ethereum | Solana | Solidity | DeFi | DApps | Tokens | Coins | NFT
+
+Methodologies and technologies:
+
+Node.js | Unity 2D/3D | OpenStack | VMware Esxi | Docker | Kubernetes | HAProxy | Nginx | Game Development | Mobile App Development | Web App Development | Graphic Design | WordPress | Magento | Shopify | Stripe

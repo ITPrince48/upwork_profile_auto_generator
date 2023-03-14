@@ -1,0 +1,18 @@
+Professional, Passionate, Powerful all the time.
+Both lonely web shark and team styled vanguard if my client wants.
+The difference between greatness and mediocrity rarely depends on your talent.
+It's about your consistent effort, and refusal to put out a substandard product.
+Are you tired of finding the right developer? Or of wasting your time and losing the chance of success because of the cheap trial with poor quality services?
+Then, now you found the right freelancer.
+By providing premium service, I will build you an MVP to help you win the fund-raising, investments and success.
+Fully understandable at the requirements in a few mins and make the perfect result which makes customers satisfied.
+List of my professional skillset
+
+1. Smart Contract(in Solidity, Rust, Move, ... ), ERC tokens(ERC20, ERC721, ERC1155), Web3, ethers.io , Ethereum, Solana networks.
+2. Javascript and its frameworks; Node.js ( Express.js, Nest.js, Koa, Feathers.js ), React.js ( Redux, Saga/Thunk ), Angular ( Ngrx, Rxjs, v1.0 ~ v9.0 ), Vue.js ( Quasar, Nuxt.js, Vuetify, Vuesax )
+3. PHP ( Laravel, Yii, ... ), Python
+4. React-Native, Ionic, Flutter, Native Script
+
+I am always focusing on the product quality first and professional codebase implementing OOP at high level.
+
+I am ready to make your dream true so feel free to contact me anytime.

@@ -1,0 +1,10 @@
+Blockchain & Full Stack Developer
+Highly-skilled IT expert with hands-on experience building NFT and DeFi
+applications to deliver effective user experiences. Recent 3 years, focused on EVM space.
+Proven track record developing various DApps. Strong knowledge of Solidity,
+Subgraph, React, Vue and other JavaScript frameworks for optimum functionality.
+Engaged in decision-making through code reviews to ensure quality and standards
+compliance, as well as re-usability and ease of maintenance. Highly proficient in
+object-oriented methodologies, data structures, algorithms, as well as quality
+coding and excellent debugging skills. Solidity development for ERC20 tokens and
+farming pools and love NFT development.

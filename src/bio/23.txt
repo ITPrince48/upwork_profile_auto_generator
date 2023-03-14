@@ -1,0 +1,14 @@
+15 years experience in Front End Web Development
+
+- Organize flexible responsive user interface
+- Participate in projects in all stages of the product's life cycle
+- Time management
+- Self-motivated
+
+HTML5, CSS3, SASS, LESS, Bootstrap, Angular Material
+JavaScript, jQuery, NodeJS, ReactJS, AngularJS, Grunt, Gulp, npm, Bower
+Adobe Photoshop, Zeplin, Adobe Illustrator, CorelDraw
+WordPress, Drupal
+JIRA, Redmine, Bitbucket, GitHub
+SVN, GIT
+Agile, Waterfall

@@ -1,0 +1,23 @@
+Welcome To My Profile!
+I'm a full stack dveloper well versed with Blockchain.
+I'm passionate about solving challenging problems that others find difficult or impossible.
+
+⭐ Blockchain stack :
+✔ Web3, Solidity, Infura, Truffle, OpenZeppelin, MIST/Remix, BTC, ETH, BSC, TRON, YFI, Bel, Solana
+✔ NFT marketplace, ERC 721/721A/1155 Smart Contract, Generating NFT arts&metadata
+✔ PancakeSwap, Uniswap Frontrunning/Sniper BOT, Binance Trading BOT, Flashbots, Axie Infinit Bot
+
+⭐ DeFi development:
+Pancake Swap V2, Uniswap V3, Sushi Swap, Yearn, Curve, Balancer, Synthetic, Compound, Aave, Mooniswap, Fulcrum, dYdX, , Zapper, Maker, insstaDApp, Bancor, Loopring, Polkadot, Substrate, WBTC, RenVM, DDorce, mStable, Alchemy, Binance Launchpool (BellaProtocol), MLM, NFT, BakerySwap, Pickle, Fortube, PerlinX, UMA Project, YFV, YFII, Synthetix, dForce, Swerve, Zoom Protocol.
+
+⭐ Web Stack:
+✔ JavaScript/ Typescript, Vue.js, React.js, Node.js
+✔ HTML (5), CSS (3), LESS, Sass, Bootstrap (4/5)
+✔ PHP / Laravel / CI
+✔ Shopify / Prestashop / Wix/ Webflow
+✔ MySQL, MongoDB, Redis
+✔ 3rd Party API Integrations
+✔ TDD methodology (Unit-testing)
+
+Senior Developers who possess a passion for technologies to the limits.
+Sincerely.

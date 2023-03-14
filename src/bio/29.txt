@@ -1,0 +1,14 @@
+I am a talented senior full-stack developer with a B.S in Computer Science.
+
+He has worked for various medium to enterprise-scale projects for many F500 clients last 5 years. He is an expert in Defi projects and web/mobile applications.
+
+He has a deep knowledge of blockchain technologies, specifically in constructing the decentralized application, fork & customizing the existing secure smart contracts, implementing trending methods like yield farming, building bridges between networks and etc.
+
+His familiar networks are Polkadot, Cardano, ETH, BSC, FlowChain, and Cosmos.
+
+As a senior frontend developer, he has a good eye on UI/UX and he always provides the best user experience. He dislikes duplicating but he pursues making everything unique and responsive.
+
+Furthermore, he is a passionate backend developer with a strong algorithm and machine learning experience.
+In detail, he has a great influence on constructing the infrastructure of the project, database structure, object-oriented programming, 3rd party service integration, server configuration and etc.
+
+All in all, I am an engaging, intense communicator with a passion for knowledge and understanding.

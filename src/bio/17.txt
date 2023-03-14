@@ -1,0 +1,26 @@
+Thanks for stopping by my Profile!
+
+We are well-qualified Full Stack Developers familiar with a wide range of programming utilities and languages.
+
+Knowledgeable of backend and frontend development requirements. Handles any part of the process with ease.
+
+Collaborative team player with excellent technical abilities offering 13 years of related experience.
+
+- Main development experiences
+WordPress, Shopify, Laravel, HTML, CSS, Javascript, Jquery, PHP
+
+- Frontend
+React, Vue, Angular, JQuery. ES5/ES6, Vanilla JS
+
+- Backend
+Node, Express, Nuxt.js, Next.js, Nest.js framework, Laravel, Django
+
+- Database
+-MySQL, MongoDB
+
+- API and BlockChain
+- Flutter. React Native, native mobile app
+
+As you can see, we are well adept at working with all the relevant platforms, and if you’re interested in getting an idea of how we work and what we create, feel free to check out our portfolio, and reach out via Freelancer!
+
+Thank you

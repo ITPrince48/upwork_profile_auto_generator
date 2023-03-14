@@ -1,0 +1,17 @@
+Hi,
+
+Montreal-based programmer with an extensive background in a variety of technologies, including desktop, mobile, and web platforms. I deliver high-quality software by communicating with my clients effectively and working tirelessly to understand their exact needs for a project. With a thorough analysis of the problem and an effectively designed solution, I'm able to leverage years of independent software experience to deliver your product quickly and effectively.
+
+Technical skills:
+- Solidity
+- PHP (I'm using OOP, Design Patterns, KISS, DRY and SOLID principles and following PSR Coding Standard)
+- Database: MySQL, Redis, Postgresql
+- Frameworks: Laravel, Symfony, Js Jquery
+
+I have experience with BigCommerce API, Shopify API, Xero API, AWS services, and many others.
+CMS and CRM: ActiveCollab, CsCart, Bitrix
+Frontend: JavaScript (jQuery, jQuery UI, Bootsrap, VueJs). HTML5, XHTML, CSS3 + Bootstrap.
+Other: Bash Scripting, RabbitMQ
+Version control: git
+
+Thanks

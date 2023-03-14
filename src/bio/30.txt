@@ -1,0 +1,7 @@
+I am an accomplished frontend developer with a strong background in both client side and server side programming, I have a proved experience of more than ten years in web and mobile development.
+
+Starting with strong academic studies I got involved in a number of different projects working most of them as development responsible.
+
+I love Laravel,Symfony2 and AngularJS and Flutter for mobile.
+
+I offer Firebase Cloud Messaging, Firebase, Firebase Firestore, Cloud Functions, and Push Notifications. State management has worked with third-party services such as Google Maps. I have extensive experience with native tools such as java SDK and XCode API integration.

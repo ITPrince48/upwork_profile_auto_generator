@@ -1,0 +1,20 @@
+{
+  "name": "up-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fakerator": "^0.3.5",
+    "fs": "^0.0.1-security",
+    "generate-password": "^1.7.0",
+    "nodemon": "^2.0.19",
+    "path": "^0.12.7"
+  }
+}

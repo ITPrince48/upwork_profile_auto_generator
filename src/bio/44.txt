@@ -1,0 +1,14 @@
+Hi. Thank you for visiting my profile.
+I am a senior web developer with over 8 years of experience in HTML, CSS, Javascript, PHP and Laravel and 6+ years in React, Next, Vue, Nuxt, Unity and Node.js.
+Also, I am proficient in blockchain stacks with smart contracts, solidity, and have experience deploying ERC-20, BEP-20 and NFT tokens.
+I have 4 years of experience in Web3.js and ethers.js to integrate blockchain net with frontend, Forking PancakeSwap and UniSwap.
+
+Skills
+-Frontend
+HTML, CSS, Javascript, Typescript , React.js, Next.js, Vue.js, Nuxt.js
+-Backend
+Node.js, Laravel, Ruby on Rails, Python/Django, Golang, GraphQL,Linux
+-Blockchain
+Geth, Solidity, Smart Contract, Web3.js, Ethers.js
+-GameDevelopment
+Unity, 3dMax, Maya, VR

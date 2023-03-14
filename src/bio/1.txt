@@ -1,0 +1,32 @@
+Hey there! Full-stack developer focused on building top-notch custom, responsive and mobile-friendly sites.
+
+Integration of search engine optimization (SEO) and conversion rate optimization (CRO) is included in all of my work.
+
+The types of clients I chose to work with are serious about results, organized, know what they want and open to suggestions and trusting in expertise.
+
+Here’s what my site build-out process typically looks like:
+
+1) Discovery - Deep dive into your organization and goals.
+
+2) Design - Create wireframe mockups, review with clients and annotate real-time changes. I provide up to three design rounds/iterations.
+
+3) Development - Once the design is approved, I develop the design into functional code utilizing a CMS.
+
+4) QA - Test the website for responsiveness and functionalities on all popular browsers and devices.
+
+5) Launch - We are live! Clients then go through a training session on how to manage the website and I hand the keys to the site over.
+The types of work I usually help my clients with include:
+
+- WordPress Website & Landing Page Development, Design & Redesign
+- NFT Site Development & Deployment
+
+The platforms I commonly work with include:
+
+- CMS - WordPress, Shopify & WooCommerce
+- Polygon & Ethereum Main Net
+
+Development Languages I have expertise in:
+
+- HTML, CSS, PHP, React, Java, Web3, Solidity and more.
+
+Looking forward to learning about your project so that we can bring it to life together! Send me an invite on Upwork to get the process started. Talk soon!

@@ -1,0 +1,24 @@
+Enthusiastic software engineer with 8+ years of experience participating in the complete product development lifecycle of successfully launched applications.
+Owns strong debugging and troubleshooting skills that allow me to quickly analyze problems and come to a modern solution that extends the life of the application without rewriting everything from scratch.
+Specialized in web application development such as E-Commerce System, Enterprise App, Single Page Application, Health Care System, Learning Management System.
+
+These are my skills:
+- iPhone, Android, Swift, Java, Objective-C
+- TypeScript, JavaScript
+- React.js, Redux, React Hooks, Styled Components
+- Vue, Vuex, Vuetify
+- Angular, NgRX, RxJS, Angular Material
+- Ionic Framework, React Native, Flutter
+- Node.js, PHP, Laravel, ExpressJS, Python/Django, MongoDB, MySQL
+- HTML, HTML5, CSS, CSS3, Bootstrap 3/4/5
+- WordPress/Shopify
+- Git, Github, Bitbucket, Gitlab
+- Firebase | FireStore, AWS, Heroku, Jira, Trello, Asana, Clubhouse
+- Figma, Adobe XD
+
+These are my abilities:
+- 40+ hours work per week, Available to start work immediately
+- Daily update using Git
+- Clean and Efficient code
+- Positive attitude, Hard Working, Quick Learning
+- 12+ hours online on Freelancer

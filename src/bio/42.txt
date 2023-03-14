@@ -1,0 +1,25 @@
+As a senior blockchain, full-stack developer with 8+ years of experience, I have solid experience working with a very wide range of tech and delivering to a variety of industries, ranging from start-ups to enterprise.
+
+With a background in consulting, both for infrastructure and software development, I bring strong skills in collaboration and communication. I'm well versed in continuous improvement and delivering value.
+I can do everything you need to build your app from the ground-up and deliver to market, which means I can turn your ideas into real working software.
+I have always enjoyed taking on new projects that push me to expand my knowledge, which is good as the tech stack has changed quite a bit since studying Computer Science in my university days.
+
+★ Blockchain development using solidity, rust plus web3.js
+https://babyobaby.club/ - Baby-O- Baby is a unique reward NFT gaming project Technology Users |Solidity – For Smart Contract |Web3.js Connect Smart Contract with Reactjs | React.js - Frontend |Binance Smart Chain Wallet
+
+https://gascashback.io/ - Complete DeFi Trading Application Technology Users | Solidity – For Smart Contract | Web3.js Connect with Smart Contract | React.js - Frontend | Smart Chain Wallet | Nodejs/Express.js Backend(API)
+
+https://alpaca.baby/ - Buy and Trade NFT, Play Games and Earn Reward Technology Users | Solidity – For Smart Contract | Web3.js Connect with Smart Contract | React -Frontend | Binance Smart Chain Wallet
+
+https://myfarmpet.io/ - Complete Meteverse of Virtual farms and builder games on Binace Smart Chain Wallet Technology Users | Solidity For Smart Contract | Web3.js Connect with Smart Contract | React.js - Frontend | Binance Smart Chain Wallet | Nodejs/Express.js Backend(API)
+
+https://fantasy.mprogame.com/ - Metaverse Game Technology Users | Solidity For Smart Contract | Web3.js Connect with Smart Contract | React - Frontend | Binance Smart Chain Wallet | Nodejs/Express.js Backend(API)
+
+https://www.wizard.financial/ - It’s a big project I have been working since the past 6 months. NFT Gaming | Staking Farming | NFT Marketplace | Technology Uses | Solidity For Smart Contract o Web3.js | Connect with Smart Contract o React.js - Frontend o Binance Smart Chain Wallet o Nodejs/Express.js - Backend(API)
+
+★ Front end Development: - Reactjs, Extjs, Meteor, Nuxtjs, Javascript, Bootstrap, Angular, HTML, CSS, Vuejs
+★ Back-end Development: - Laravel, Express, NestJS, Php core, Sequelize
+★ Web service and Backend Development: - Nodejs, Python, firebase, PHP, Golang, Nodejs, Nextjs.
+★ Database: - Mysql, MongoDB, NoSQL, Postgress, Firebase, Mysql.
+★ Cloud Server deployment: - AWS, Azure, Heroku, iCloud, Google Cloud, DigitalOcean
+★ DevOps Operations: - Git, BitBucket, Gitlab. - Jenkins, Vmware Vrealize Automation, Vsphere, Vmware, Kubernetes, Docker, CI, CD, Forman

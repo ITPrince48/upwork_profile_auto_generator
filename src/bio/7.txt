@@ -1,0 +1,32 @@
+Hi All,
+
+I'm an open minded web developer who's ready for new challenges. I am a highly efficient and reliable professional who possesses a broad skill set for web application development. I have consistently saved costs while increasing profits and I'm ready for an opportunity to use these skills to grow your revenue exponentially.
+
+Most of my career has been spent in web development. I started with PHP and later began working with Javascript and its modern frameworks such as React, React Native, Vue2/Vue3, Angular, and now I'm mastering the front-end field. I love working with great people, inspiring others, and being inspired.
+
+I have worked on 20+ projects and solved complex business problems in various industries including marketing, healthcare, eCommerce, real estate, and insurance. These projects have given me experience with different clients and products that include solving scalability issues in production engineering teams at Shopify and Autodesk, to launching new applications for startups.
+
+Top Talent:
+- Front-end Engineering
+- Web Development
+- Angular
+- React/Preact
+- Next.js
+- Apollo/GraphQL | Relay Framework
+- React Native/ iOS/ Android
+- Redux-Thunk/ Redux-Saga/ Redux-Logger/ Redux-Promise
+- Mobx
+- Vue/ Vuex
+- Nuxt
+- Material-UI/ Blueprint/ Antd/ Vuetify/ Element-UI/ Grommet-UI
+- NPM/ Yarn/ Doppler/ Webpack/ Babel
+- AWS/ Azure/ GCP
+- Financial Analytics
+- Blockchain Technology
+- NFTs
+- Smart Contract Deployment
+- DAO Technology
+- FinTech
+- SalesForce CRM/ Lightning
+
+If you're looking for an experienced developer, feel free to reach out to me so we can discuss your project needs and set you up for success.

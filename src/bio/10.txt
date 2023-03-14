@@ -1,0 +1,41 @@
+Hi, Thank you for your visiting my profile.
+
+For 12 years, I've been delivering top-tier websites and applications across both web and mobile realms.
+
+I have a rare amalgamation of skills among developers, allowing me to deliver both technical excellence and pixel-perfect standards.
+
+My clients typically want the best, and as you can from my feedback, they get it. I've worked with everyone from solopreneurs to conglomerates, Bloomberg and Uber UK, to name but a few, consistently delivering to the highest levels of satisfaction.
+
+Whether your project is destined to be the next big thing or in need of recovery from the brink of disaster, I can provide the commitment and expertise you need to achieve your goals.
+
+Highlights:
+
+✅ Full-stack development with the ability to take projects independently from concept to market.
+✅ Pixel perfect design implementations (commonly from Figma/Sketch/XD/PSD).
+✅ Excel in the area of project management and can assist in the formation of optimal workflows.
+✅ UK native with excellent communication ability textually, verbally, or in-person.
+✅ Educated to Masters (MSc) level and previoulsy held senior agency roles, including Technical Director.
+✅ Maintained a consistent 100% "Job Success" rate for 3 years.
+✅ A long-term partner who you can always rely on.
+
+Favoured technologies:
+
+⚡️Front-End: React, TypeScript, Angular, HTML5, CSS3, JavaScript.
+⚡️ Common Libraries: Bootstrap, Material UI, Ant Design, Semantic UI, jQuery,
+⚡️BaaS: Firebase
+⚡️Back-End: Node.js, PHP, Laravel,
+⚡️Database: MySQL, SQLite, SQL Server, PostgreSQL, MongoDB, DynamoDB
+⚡️Wordpress: ACF, WooCommerce, custom themes, custom plugins, and almost everything else.
+⚡️ Infrastructure: AWS, Azure, Cloudflare, Docker Non-Development Skills:
+⚡️System design and architecture
+⚡️ Essentials: Trello, Slack, JIRA.
+⚡️SEO
+⚡️Project/Product Management: "Lean Startup" Methodology, Consultancy and Product Creation
+⚡️Handoff: Marvel, Zeplin, Figma
+⚡️Testing: Usability, QA, Functional, Interface, Compatibility, Integration, Load, Penetration.
+⚡️ Data Collection: Google Analytics, Flurry, Kissmetrics
+⚡️ Version Control: BitBucket, GitHub, Gitlab, GitKraken, SVN
+
+
+Thanks 
+All the best

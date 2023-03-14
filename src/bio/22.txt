@@ -1,0 +1,12 @@
+Dapp | Smart Contracts | ERC20 / ERC721 / ERC721A / ERC777 / BEP20 | Solidity | Rust
+
+Technologies I am comfortable with:-
+Frontend - Angular, React, Styled Components, HTML, CSS.
+Backend - NodeJS, Java, C++, PHP(Yii, Laravel), Microservices, MongoDB.
+Blockchains - Quorum, Hyperledger, Corda, Ethereum, Bitcoin, Multichain, Hashgraph, Solana, etc.
+DevOps - AWS, Docker, Kubernetes, Digital Oceans
+Security Measures - SmartCheck will be used for security analysis of Ethereum and Solana smart contracts
+
+I'm a software developer with commercial development experience.
+
+I can provide secure, ultra-fast, scalable.

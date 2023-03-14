@@ -1,0 +1,23 @@
+I’m a full-stack engineer with a vast array of knowledge in many different front-end and back-end languages and databases.
+My objective is simply to be the best web developer I can be and to contribute to the technology industry all that I know and can do.
+I am dedicated to perfecting my craft by learning from seasoned developers.
+I studied Engineer, and I believe that my understanding of working as a team are skills that will contribute to my overall success as a developer.
+
+Technical skills:
+- React.js, Vue.js, Angular, .NET, PHP, Laravel, Symfony, Ionic, React-native
+- Node.js, Django, Ruby on Rails,
+- Redux, Mobx, Vuex, NgRx, D3.js
+- MySQL, PostgreSQL, MongoDB, Firebase, cloudstore, SQLite
+- Material UI, Botostrap, Semantic UI, AntD, Vuetify, Storybook
+- Webpack, Babel, GraphQL, Firebase, ESLint, JSLint
+- Jest, Enzume, Mocah, Chai, Cypress, Pytest, Rspec
+- Stripe API, Google map API, OAuth, Sendgrid, Twilio API
+- AWS, Heroku, Nginx
+
+Personal Skills
+- Effective written and verbal communication skills and good listening skills
+- Strong organizational skills and the ability to quickly adapt to change
+- Excellent problem-solving skills
+- Ability to analyze problem in multiple perspectives
+- A -can-do- attitude and a strong passion for technology and willingness to learn new skills
+- Critical thinker, self-start and solid team player
